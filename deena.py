@@ -10,3 +10,4 @@ git config --global core.editor vim
 git config --global core.compression 2
 
 git config --global diff.tool vim.diff"
+hey iam deena
